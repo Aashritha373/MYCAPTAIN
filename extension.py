@@ -1,3 +1,0 @@
-f=input("Input the Filename:")
-f_e = f.split(".")
-print("The extension of the file is : ",(f_e[-1]))
